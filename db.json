@@ -1,5 +1,5 @@
-{
-  "users": [{
+[
+  {
     "firstname": "Marc",
     "lastname" : "Abogado,
     "email" : "marc@gmail.com",
@@ -12,6 +12,5 @@
     "email" : "marcoooo@gmail.com",
     "eid" : "marc.abaaaaaaaaaaa",
     "bdate" : "08-11-1998"
-  },
-  ]
-}
+  }
+]
