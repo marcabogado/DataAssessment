@@ -1,0 +1,16 @@
+[
+  {
+    "firstname": "Marc",
+    "lastname" : "Abogado,
+    "email" : "marc@gmail.com",
+    "eid" : "marc.ab",
+    "bdate" : "08-11-1998"
+  },
+  {
+    "firstname": "Marco",
+    "lastname" : "BAbogado,
+    "email" : "marcoooo@gmail.com",
+    "eid" : "marc.abaaaaaaaaaaa",
+    "bdate" : "08-11-1998"
+  },
+]
